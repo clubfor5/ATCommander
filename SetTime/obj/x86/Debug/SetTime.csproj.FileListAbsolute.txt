@@ -1,0 +1,16 @@
+d:\我的文档\visual studio 2010\Projects\SetTime\SetTime\bin\Debug\SetTime.exe
+d:\我的文档\visual studio 2010\Projects\SetTime\SetTime\bin\Debug\SetTime.pdb
+d:\我的文档\visual studio 2010\Projects\SetTime\SetTime\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\visual studio 2010\Projects\SetTime\SetTime\obj\x86\Debug\SetTime.Form1.resources
+d:\我的文档\visual studio 2010\Projects\SetTime\SetTime\obj\x86\Debug\SetTime.Properties.Resources.resources
+d:\我的文档\visual studio 2010\Projects\SetTime\SetTime\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\我的文档\visual studio 2010\Projects\SetTime\SetTime\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\我的文档\visual studio 2010\Projects\SetTime\SetTime\obj\x86\Debug\SetTime.exe
+d:\我的文档\visual studio 2010\Projects\SetTime\SetTime\obj\x86\Debug\SetTime.pdb
+C:\Users\zzc\Desktop\xiezhenli\SetTime\SetTime\obj\x86\Debug\SetTime.exe
+C:\Users\zzc\Desktop\xiezhenli\SetTime\SetTime\obj\x86\Debug\SetTime.pdb
+C:\Users\zzc\Desktop\xiezhenli\SetTime\SetTime\bin\Debug\SetTime.exe
+C:\Users\zzc\Desktop\xiezhenli\SetTime\SetTime\bin\Debug\SetTime.pdb
+C:\Users\zzc\Desktop\xiezhenli\SetTime\SetTime\obj\x86\Debug\SetTime.Form1.resources
+C:\Users\zzc\Desktop\xiezhenli\SetTime\SetTime\obj\x86\Debug\SetTime.Properties.Resources.resources
+C:\Users\zzc\Desktop\xiezhenli\SetTime\SetTime\obj\x86\Debug\SetTime.csproj.GenerateResource.Cache
